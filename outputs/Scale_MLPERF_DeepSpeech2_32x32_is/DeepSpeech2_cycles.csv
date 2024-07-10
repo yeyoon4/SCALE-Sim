@@ -1,0 +1,7 @@
+Layer,	Cycles,	% Utilization,
+DeepSpeech_conv1,	1447928,	96.58579848669962,
+DeepSpeech_conv2,	5185950,	99.6043986636971,
+BatchRNN1,	166320,	100.0,
+BatchRNN2,	633600,	100.0,
+BatchRNN3,	633600,	100.0,
+FC,	7440,	3.125,
